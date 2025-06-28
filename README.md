@@ -44,7 +44,6 @@ aiGenerator/
     └── src/
         ├── components/
         ├── pages/
-        ├── utils/
         └── App.js
 ```
 
